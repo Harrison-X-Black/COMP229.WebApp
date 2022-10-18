@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "name": "comp229.webapp",
+  "description": "Assignment",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harrison-X-Black/COMP229.WebApp.git"
+  },
+  "keywords": [
+    "COMP229",
+    "ELS",
+    "NodeJS",
+    "Express"
+  ],
+  "author": "Harrison Black",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harrison-X-Black/COMP229.WebApp/issues"
+  },
+  "homepage": "https://github.com/Harrison-X-Black/COMP229.WebApp#readme"
+}
